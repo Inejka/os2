@@ -1,0 +1,4 @@
+Successfully downloaded a.jpg from https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg
+Successfully downloaded aa.jpg from https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg
+Failed to download a from a
+Failed to download j from j
