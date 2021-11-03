@@ -4,7 +4,6 @@
 #include <pthread.h>
 #include <string.h>
 
-#include <unistd.h>
 
 #define log_name "log.txt"
 #define exit_str "exit"
@@ -54,7 +53,7 @@ int main()
     pthread_mutex_init(&mutex, NULL);
     while (1)
     {
-        char *link = (char *)malloc(500), *file_name = (char *)malloc(30);
+        char *link = (char *)malloc(500), *file_name = (char *)malloc(50);
         scanf("%s%s", link, file_name);
         if (!strcmp(exit_str, link) || !strcmp(exit_str, file_name))
             break;

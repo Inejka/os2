@@ -2,3 +2,6 @@ Successfully downloaded a.jpg from https://upload.wikimedia.org/wikipedia/common
 Successfully downloaded aa.jpg from https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg
 Failed to download a from a
 Failed to download j from j
+Successfully downloaded mycat.jpg from https://sun9-14.userapi.com/impf/c622617/v622617728/4a392/CsJeQZb0Jac.jpg?size=2560x1920&quality=96&sign=ac4eb79ec01e45fd356c739e85430d21&type=album
+Successfully downloaded Ph'nglui_mglw'nafh_Cthulhu_R'lyeh_wgah'nagl_fhtagn from https://cdnb.artstation.com/p/assets/images/images/035/666/837/large/andree-wallin-1117-2.jpg?1615561283
+Successfully downloaded Ph'nglui_mglw'nafh_Cthulhu_R'lyeh_wgah'nagl_fhtagn.jpg from https://cdnb.artstation.com/p/assets/images/images/035/666/837/large/andree-wallin-1117-2.jpg?1615561283
